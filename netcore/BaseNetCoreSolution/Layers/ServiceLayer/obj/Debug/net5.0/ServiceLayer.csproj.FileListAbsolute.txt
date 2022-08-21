@@ -1,0 +1,15 @@
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.exe
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.deps.json
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.runtimeconfig.json
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.runtimeconfig.dev.json
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ref\ServiceLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.pdb
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfoInputs.cache
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfo.cs
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CoreCompileInputs.cache
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ref\ServiceLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.pdb
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.genruntimeconfig.cache

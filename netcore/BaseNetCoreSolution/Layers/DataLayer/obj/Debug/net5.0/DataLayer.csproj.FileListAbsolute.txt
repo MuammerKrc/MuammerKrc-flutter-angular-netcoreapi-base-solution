@@ -1,0 +1,5 @@
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
