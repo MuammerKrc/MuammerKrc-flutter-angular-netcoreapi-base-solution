@@ -8,6 +8,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CoreLayer.Models.IdentityModels;
+using DataLayer;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.CodeAnalysis.Diagnostics;
+using Microsoft.EntityFrameworkCore;
 
 namespace ClientSolution
 {
@@ -23,6 +28,25 @@ namespace ClientSolution
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<AppDbContext>(opt =>
+            {
+                opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+            });
+            services.AddIdentity<AppUser, AppRole>(opt =>
+            {
+                opt.User.RequireUniqueEmail = true;
+                opt.Password.RequireDigit = false;
+                opt.Password.RequireLowercase = false;
+                opt.Password.RequireNonAlphanumeric = false;
+                opt.Password.RequireUppercase = false;
+                opt.Password.RequiredLength = 6;
+                opt.Password.RequiredUniqueChars = 3;
+
+            })
+                .AddEntityFrameworkStores<AppDbContext>()
+                .AddDefaultTokenProviders();
+
+
             services.AddAuthentication("CookieAuth")
                 .AddCookie("CookieAuth", config =>
                 {

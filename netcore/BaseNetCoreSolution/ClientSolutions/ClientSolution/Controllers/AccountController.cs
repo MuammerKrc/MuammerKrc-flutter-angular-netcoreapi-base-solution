@@ -13,22 +13,24 @@ namespace ClientSolution.Controllers
     {
         public IActionResult Login()
         {
-            var baseClaims = new List<Claim>()
-            {
-                new Claim(ClaimTypes.Name, "Bob"),
+            //var baseClaims = new List<Claim>()
+            //{
+            //    new Claim(ClaimTypes.Name, "Bob"),
 
-                new Claim(ClaimTypes.Email, "muammer03karaca@gmail.com"),
-            };
-            var licenseClaims = new List<Claim>()
-            {
-                new Claim(ClaimTypes.Name, "other"),
+            //    new Claim(ClaimTypes.Email, "muammer03karaca@gmail.com"),
+            //};
+            //var licenseClaims = new List<Claim>()
+            //{
+            //    new Claim(ClaimTypes.Name, "other"),
 
-                new Claim(ClaimTypes.Email, "muammer03karaca@gmail.com"),
-            };
-            var grandmaIdentity = new ClaimsIdentity(baseClaims,"grandma Identity");
-            var licenceIdentity = new ClaimsIdentity(licenseClaims, "licence Identity");
-            var userPrincipal = new ClaimsPrincipal(new []{grandmaIdentity, licenceIdentity });
-            HttpContext.SignInAsync(userPrincipal);
+            //    new Claim(ClaimTypes.Email, "muammer03karaca@gmail.com"),
+            //};
+            //var grandmaIdentity = new ClaimsIdentity(baseClaims,"grandma Identity");
+            //var licenceIdentity = new ClaimsIdentity(licenseClaims, "licence Identity");
+            //var userPrincipal = new ClaimsPrincipal(new []{grandmaIdentity, licenceIdentity });
+            //HttpContext.SignInAsync(userPrincipal);
+
+
             return View();
         }
     }

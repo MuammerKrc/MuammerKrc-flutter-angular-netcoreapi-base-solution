@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CoreLayer.IUnitOfWorks;
+using CoreLayer.Models.BaseModels;
+using Microsoft.EntityFrameworkCore;
 
 namespace DataLayer.UnitOfWorks
 {

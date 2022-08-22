@@ -3,3 +3,13 @@ F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolu
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\bin\Debug\net5.0\ref\CoreLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\bin\Debug\net5.0\SharedLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\bin\Debug\net5.0\SharedLayer.pdb
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CopyComplete
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb

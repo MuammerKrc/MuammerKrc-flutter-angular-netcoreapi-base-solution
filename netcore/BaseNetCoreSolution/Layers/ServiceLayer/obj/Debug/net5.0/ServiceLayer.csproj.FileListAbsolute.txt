@@ -1,7 +1,4 @@
-F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.exe
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.deps.json
-F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.runtimeconfig.json
-F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.runtimeconfig.dev.json
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.dll
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ref\ServiceLayer.dll
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\ServiceLayer.pdb
@@ -12,4 +9,11 @@ F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolu
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.dll
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ref\ServiceLayer.dll
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.pdb
-F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.genruntimeconfig.cache
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.AssemblyReference.cache
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\CoreLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\DataLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\SharedLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\DataLayer.pdb
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\CoreLayer.pdb
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\bin\Debug\net5.0\SharedLayer.pdb
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\Layers\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CopyComplete

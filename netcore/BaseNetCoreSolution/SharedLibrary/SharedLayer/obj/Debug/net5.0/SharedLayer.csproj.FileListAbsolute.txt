@@ -3,3 +3,13 @@ F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolu
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\obj\Debug\net5.0\SharedLayer.AssemblyInfoInputs.cache
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\obj\Debug\net5.0\SharedLayer.AssemblyInfo.cs
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\obj\Debug\net5.0\SharedLayer.csproj.CoreCompileInputs.cache
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\bin\Debug\net5.0\SharedLayer.deps.json
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\bin\Debug\net5.0\SharedLayer.runtimeconfig.json
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\bin\Debug\net5.0\SharedLayer.runtimeconfig.dev.json
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\bin\Debug\net5.0\SharedLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\bin\Debug\net5.0\ref\SharedLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\bin\Debug\net5.0\SharedLayer.pdb
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\obj\Debug\net5.0\SharedLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\obj\Debug\net5.0\ref\SharedLayer.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\obj\Debug\net5.0\SharedLayer.pdb
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\SharedLibrary\SharedLayer\obj\Debug\net5.0\SharedLayer.genruntimeconfig.cache
