@@ -23,6 +23,7 @@ namespace ClientSolution.Controllers
         {
             return View();
         }
+
         [Authorize]
         public IActionResult Secret()
         {

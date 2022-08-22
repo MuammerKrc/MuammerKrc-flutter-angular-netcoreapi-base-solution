@@ -274,3 +274,13 @@ F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolu
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\bin\Debug\net5.0\CoreLayer.pdb
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\bin\Debug\net5.0\DataLayer.pdb
 F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\bin\Debug\net5.0\SharedLayer.pdb
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\bin\Debug\net5.0\AutoMapper.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+F:\ownerProject\flutter-angular-netcoreapi-base-solution\netcore\BaseNetCoreSolution\ClientSolutions\ClientSolution\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirm.cshtml.g.cs
