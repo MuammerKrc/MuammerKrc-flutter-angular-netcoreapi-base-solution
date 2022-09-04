@@ -10,6 +10,6 @@ namespace CoreLayer.Models.IdentityModels
 {
     public class AppRole:IdentityRole<int>
     {
-
+        
     }
 }

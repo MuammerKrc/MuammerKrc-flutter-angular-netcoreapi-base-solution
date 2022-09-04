@@ -6,6 +6,7 @@ using System.Net;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using CoreLayer.Dtos;
+using CoreLayer.Dtos.UserDtos;
 using CoreLayer.Models.IdentityModels;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;

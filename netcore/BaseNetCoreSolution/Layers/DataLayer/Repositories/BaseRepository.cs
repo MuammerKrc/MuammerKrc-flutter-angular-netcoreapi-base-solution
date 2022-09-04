@@ -12,9 +12,9 @@ namespace DataLayer.Repositories
 {
     public class BaseRepository<TModel, TKey> : IBaseRepository<TModel, TKey> where TModel : BaseModel<TKey>
     {
-        public DbContext _context;
+        public AppDbContext _context;
         public DbSet<TModel> _dbSet;
-        public BaseRepository(DbContext context)
+        public BaseRepository(AppDbContext context)
         {
             _context = context;
             _dbSet = context.Set<TModel>();

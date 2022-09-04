@@ -3,8 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CoreLayer.IRepositories;
 using CoreLayer.IUnitOfWorks;
 using CoreLayer.Models.BaseModels;
+using CoreLayer.Models.IdentityModels;
+using DataLayer.Repositories;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace DataLayer.UnitOfWorks
@@ -18,10 +22,6 @@ namespace DataLayer.UnitOfWorks
             this.context = context;
         }
 
-        //private UserRefreshTokenRepository _userRefreshTokenRepository;
-
-        //public IUserRefreshTokenRepository UserRefreshTokenRepository => _userRefreshTokenRepository =
-        //    _userRefreshTokenRepository ?? new UserRefreshTokenRepository(context);
 
         public async Task SaveChangeAsync()
         {

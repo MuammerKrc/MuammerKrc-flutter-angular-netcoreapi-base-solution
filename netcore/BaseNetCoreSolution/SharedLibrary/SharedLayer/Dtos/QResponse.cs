@@ -11,7 +11,7 @@ namespace SharedLayer.Dtos
         public bool IsSuccess { get; private set; }
         public T Model { get; private set; }
         public int StatusCode { get; private set; } = 200;
-        public ErrorDto Error { get; private set; }
+        public List<string> Error { get; private set; } = new List<string>();
 
         public static QResponse<T> SuccessResponse(T model, int statusCode = 200)
         {
@@ -21,14 +21,14 @@ namespace SharedLayer.Dtos
         {
             return new QResponse<T>() { IsSuccess = true, StatusCode = statusCode, };
         }
-        public static QResponse<T> ErrorResponse(ErrorDto errors, int statusCode = 500)
+        public static QResponse<T> ErrorResponse(List<string> errors, int statusCode = 500)
         {
-            return new QResponse<T>() { Error = errors, StatusCode = statusCode, IsSuccess = false };
+            return new QResponse<T>() { Error=errors, StatusCode = statusCode, IsSuccess = false };
         }
 
         public static QResponse<T> ErrorResponse(string error, int statusCode = 500)
         {
-            return new QResponse<T>() { Error = new ErrorDto(error: error), StatusCode = statusCode, IsSuccess = false };
+            return new QResponse<T>() { Error = new List<string>(){error}, StatusCode = statusCode, IsSuccess = false };
         }
     }
 }

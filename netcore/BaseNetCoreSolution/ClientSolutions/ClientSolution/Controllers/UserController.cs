@@ -7,5 +7,6 @@ namespace ClientSolution.Controllers
 {
     public class UserController
     {
+
     }
 }
